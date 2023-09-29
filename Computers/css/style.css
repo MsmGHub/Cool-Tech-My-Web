@@ -19,4 +19,35 @@ nav{
     border: 3px solid black;
     border-radius: 12px;
     margin: 5px;
+    padding: 10px;
+}
+.ultraTab{
+    background-color: greenyellow;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
+.UltraPhone{
+    background-color: yellowgreen;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.UltimateDesktop{
+    background-color: rgb(255, 119, 0);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+#Info{
+    color: red;
+}
+#NewULtraLaptop{
+    background-color: rgb(255, 2, 2);
+    color: white;
+    text-decoration: none;
+    padding: 10px; 
 }
