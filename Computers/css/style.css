@@ -1,0 +1,22 @@
+ul li{
+    list-style: none;
+    float: left;
+}
+ul li a{
+    margin: 4px;
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+}
+.logo{
+    float: left;
+}
+nav{
+    background-color: blue;
+     
+}
+#section1{
+    border: 3px solid black;
+    border-radius: 12px;
+    margin: 5px;
+}
